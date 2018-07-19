@@ -1,0 +1,125 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+header {
+  width: 100%;
+  background-color: #D70302; }
+  header img {
+    padding: 0.1rem 0.3rem;
+    display: inline-block; }
+  header span {
+    font-size: 0.8rem;
+    color: #fff;
+    float: right;
+    padding-top: 0.2rem;
+    padding-right: 0.4rem; }
+
+.wrapper {
+  width: 100%;
+  border-top: 2px solid #BBB1BA; }
+  .wrapper ul {
+    display: block; }
+    .wrapper ul li {
+      display: inline-block;
+      width: 2.9rem;
+      text-align: center;
+      padding-top: 0.2rem;
+      padding-bottom: 0.3rem; }
+      .wrapper ul li a {
+        text-decoration: none;
+        text-align: center;
+        color: #000;
+        font-size: 0.7rem; }
+
+.swiper-container {
+  width: 100%;
+  height: 100%; }
+  .swiper-container .swiper-slide {
+    text-align: center;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center; }
+    .swiper-container .swiper-slide img {
+      width: 100%; }
+
+.section {
+  width: 100%; }
+  .section .box-1 {
+    width: 100%;
+    border-bottom: 1px solid #666; }
+    .section .box-1 .box-2 {
+      margin-left: 0.5rem;
+      margin-right: 0.5rem; }
+      .section .box-1 .box-2 span {
+        font-size: 0.8rem;
+        padding-top: 0.5rem;
+        display: inline-block; }
+      .section .box-1 .box-2 .message {
+        width: 100%;
+        padding: 0.5rem 0; }
+        .section .box-1 .box-2 .message span {
+          font-size: 0.7rem;
+          color: #ABABAB; }
+        .section .box-1 .box-2 .message .span {
+          border: 1px solid #999;
+          margin-right: 0.7rem;
+          margin-left: 0.4rem;
+          font-size: 0.5rem; }
+        .section .box-1 .box-2 .message .xiaoxi {
+          float: right;
+          display: block; }
+          .section .box-1 .box-2 .message .xiaoxi .icon-xiaoxi {
+            font-size: 1rem;
+            display: inline-block;
+            vertical-align: middle;
+            margin-right: 0.5rem; }
+    .section .box-1 P {
+      width: 100%;
+      font-size: 0.8rem;
+      text-align: center;
+      padding: 0.5rem 0; }
+  .section .box-2 {
+    margin-left: 0.9rem;
+    margin-right: 0.8rem; }
+    .section .box-2 .iPhone {
+      width: 40%;
+      padding-top: 1.5rem;
+      padding-bottom: 1.5rem;
+      margin-right: 1rem;
+      display: inline-block; }
+      .section .box-2 .iPhone img {
+        width: 100%;
+        height: 100%; }
+      .section .box-2 .iPhone span {
+        font-size: 0.6rem;
+        text-align: center; }
+
+.section1 {
+  width: 100%;
+  background-color: #eee; }
+  .section1 .box1 {
+    text-align: center; }
+    .section1 .box1 span {
+      font-size: 0.7rem; }
+    .section1 .box1 .size {
+      border: 1px solid #666;
+      font-size: 0.6rem;
+      margin-left: 0.3rem;
+      margin-right: 0.5rem; }
+  .section1 .box2 {
+    text-align: center;
+    font-size: 0.7rem;
+    padding: 0.3rem 0; }
+
+/*# sourceMappingURL=index.css.map */
