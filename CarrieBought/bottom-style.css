@@ -1,0 +1,105 @@
+练习.css
+.foot_box {
+    margin: 0;
+    margin-top: 0px;
+    margin-top: 20px;
+    background: #fff;
+    font-family: "微软雅黑";
+    font-size: 14px;
+}
+.foot_sv {
+    height: 46px;
+    margin: 0 0 10px 0;
+}
+.foot_sv .sv_con {
+    width: 1200px;
+    height: 46px;
+    overflow: hidden;
+    margin: 0 auto;
+    background: url(images/foot_info.png) no-repeat scroll 0 0;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+.f_help {
+    overflow: hidden;
+    padding: 10px 0;
+}
+.f_help .f_h_content {
+    width: 1200px;
+    margin: 0 auto;
+}
+.f_help .f_h_content .f_2d {
+    float: left;
+    width: 123px;
+    height: 123px;
+    background: url(images/jlg_2d.jpg) no-repeat scroll 0 0;
+    text-indent: -9999px;
+    overflow: hidden;
+    margin-right: 20px;
+    margin-top: 13px;
+}
+.f_help .f_h_content .f_help_list {
+    float: left;
+    margin-left: 30px;
+    border: 1px solid #ccc;
+    border-right-width: 1px;
+    border-left-width: 1px;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-right-color: rgb(204, 204, 204);
+    border-left-color: rgb(204, 204, 204);
+    border-image-source: none;
+    border-image-slice: 100%;
+    border-image-width: 1;
+    border-image-outset: 0;
+    border-image-repeat: stretch;
+    border-bottom: none;
+    border-top: none;
+    padding-left: 20px;
+}
+.f_help .f_h_content .f_help_list .f_h_list strong {
+    display: block;
+    height: 30px;
+    width: 120px;
+    line-height: 30px;
+    font-size: 14px;
+}
+.f_help .f_h_content .f_help_list .f_h_list a {
+    display: block;
+    height: 30px;
+    width: 120px;
+    line-height: 30px;
+}
+.f_help .f_h_content .f_help_list .f_h_list {
+    float: left;
+    width: 100px;
+    margin: 0 20px;
+}
+.f_help .f_h_content .call_rzq {
+    float: right;
+    width: 260px;
+    height: 65px;
+    margin-top: 35px;
+    background: url(images/call_rz.jpg) no-repeat scroll 0 0;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+.foot_txt {
+    height: 150px;
+    margin: 0 auto;
+    overflow: hidden;
+    background: #F8F8F8;
+}
+.foot_txt p {
+    line-height: 15px;
+    text-align: center;
+    color: #999;
+}
+.foot_txt .rz {
+    height: 42px;
+    width: 100%;
+    overflow: hidden;
+}
+.foot_txt .rz img {
+    margin: 0 10px;
+}

@@ -1,0 +1,164 @@
+练习.css
+*{
+    margin: 0;
+    padding: 0;
+}
+html * {
+    font-family: "微软雅黑";
+    font-size: 12px;
+    color: #444444;
+}
+body{
+    background: #F7F7F7;
+    margin: 0;
+    padding: 0;
+}
+.m-search {
+    clear: both;
+    width: 1190px;
+    height: 74px;
+    line-height: 74px;
+    margin: 10px auto 0;
+}
+.g-login {
+    padding: 36px 0 20px;
+}
+.f-pr {
+    position: relative;
+}
+.f-fl{
+    float: left;
+}
+.s-font-head {
+    font-family: "Microsoft Yahei";
+    font-size: 17px;
+    text-decoration: none;
+}
+i {
+    color: #c9c9c9;
+    padding-right: 15px;
+}
+i{
+    font-style: normal;
+}
+.f-pad-h5 {
+    padding: 0 5px;
+    padding-right: 5px;
+}
+.s-hot-query-highlight {
+    color: #e91456;
+    font-size: 12px;
+}
+.f-fr {
+    float: right;
+}
+.f-pad-h5 {
+    padding: 0 5px;
+}
+.s-font-size{
+    font-size: 12px;
+}
+.f-login {
+    margin: 30px auto 20px;
+    width: 1200px;
+}
+.login-right {
+    width: 347px;
+    height: 377px;
+    margin: 0 auto;
+    background: #ffffff;
+}
+.f-tac {
+    text-align: center;
+}
+.f-input {
+    height: 72px;
+}
+.f-wd275 {
+    width: 275px;
+}
+.f-ib {
+    display: inline-block;
+}
+.f-fs2 {
+    font-size: 14px;
+}
+.f-clear {
+    clear: both;
+}
+.f-lst36 {
+    height: 36px;
+    line-height: 36px;
+}
+.f-pa {
+    position: absolute;
+}
+.f-fl42 {
+    left: 42px;
+    rgb(201,201,201)
+}
+.f-lst30 {
+    height: 25px;
+    line-height: 25px;
+    font-size: 12px;
+    box-shadow: #FF5555 0px 0px 4px;
+}
+.f-fs2 {
+    font-size: 14px;
+}
+.f-delete {
+    width: 36px;
+    height: 36px;
+    right: 35px;
+    top: 0;
+    color: #000000;
+    cursor: pointer;
+}
+.f-ib {
+    display: inline-block;
+    margin-top: auto;
+}
+.f-dn {
+    display: none;
+}
+.f-code{
+    width: 277px;
+    margin: 15px auto;
+}
+.f-tal {
+    text-align: left;
+}
+.f-vam {
+    vertical-align: middle;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    color: #e91456;
+}
+.u-btn-c1 {
+    border-color: #e21357;
+    background: #e21357;
+}
+.u-btn{
+    height: 32px;
+    line-height: 32px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    word-spacing: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+}
+.s-login-intro {
+    width: 100%;
+    border-bottom: 1px solid #E8E8E7;
+    padding-top: 15px;
+    font-size: 12px;
+}
